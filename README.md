@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋 My name is Nguyễn Hoài Tâm
+My name is Nguyễn Hoài Tâm
 ================================
 
 * 🌍  I'm based in Viet Nam
